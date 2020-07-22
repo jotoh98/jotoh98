@@ -1,16 +1,23 @@
-### Hi there 👋
+## Hi there
 
-<!--
-**jotoh98/jotoh98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my precious github profile.
 
-Here are some ideas to get you started:
+## Languages & Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Fullstack Web (PHP, Javascript, HTML, CSS)
+- Java (JavaFX, Swing)
+- Python (numpy)
+- Teamplayer
+- curious about new challenges and technologies (Kotlin, Swift, Go, etc.)
+
+## My Projects
+
+<p align="center">
+  <img src="https://github.com/jotoh98/evoSearch/raw/master/icon.png" width="128px"><br>
+  <a href="https://github.com/jotoh98/evoSearch" align="center">evoSearch</a>
+</p>
+
+<p align="center">
+  <img src="https://github.com/jotoh98/treasureHunt/blob/master/src/main/resources/images/icon.png" width="128px"><br>
+  <a href="https://github.com/jotoh98/treasureHunt" align="center">treasureHunt</a>
+</p>
