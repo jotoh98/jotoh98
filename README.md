@@ -1,6 +1,7 @@
 ## Hi there
 
 Welcome to my precious github profile.
+For a extended version, visit [jotoh98.github.io](https://jotoh98.github.io).
 
 ## Languages & Skills
 
